@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AdrianoJesusOliveira/robot/issues"
   },
-  "homepage": "https://github.com/AdrianoJesusOliveira/robot#readme"
+  "homepage": "https://github.com/AdrianoJesusOliveira/robot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
